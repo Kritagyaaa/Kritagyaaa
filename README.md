@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA IN CPP AND JS Frameworks**
 
-- 📫 How to reach me **arora.kritagyaa@gmail.com**
+- 📫 How to reach me **ttps://linktr.ee/kritagyaa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
